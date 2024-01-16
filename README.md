@@ -12,6 +12,8 @@
 - 🌱 I’m passionate about [serverless in Microsoft Azure](https://azure.microsoft.com/en-us/solutions/serverless) and getting different certifications in the Cloud field.
 - ⚡ I read books, learning about new technologies, starting new challenges and enjoy the nature!
 
+
+
 <div align="center">
 ## 💻 My Tech Stack:
 
