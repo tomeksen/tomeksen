@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**tomeksen/tomeksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm tomas</h1>
+<h3 align="center">A passionate full-stack developer from Spain</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tomas-olmeda-gonzalez/) &nbsp;
+
+</div>
+
+- 🔭 Currently looking for a full-time job
+- 🌱 I’m passionate about [serverless in Microsoft Azure](https://azure.microsoft.com/en-us/solutions/serverless) and getting different certifications in the Cloud field.
+- ⚡ I read books, learning about new technologies, starting new challenges and enjoy the nature!
+
+<div align="center">
+## 💻 My Tech Stack:
+
+[![C#, .NET, Angular, React, JavaScript, TypeScript, Bootstrap, Azure, Github, Jenkins, MySQL, Postman](https://skillicons.dev/icons?i=cs,dotnet,angular,react,js,ts,bootstrap,azure,github,jenkins,mysql,postman)](https://skillicons.dev)
+
+
